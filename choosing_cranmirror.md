@@ -1,4 +1,4 @@
-###How to Choose A Cran Mirror when the GUI Doesn't Work###
+###How to Choose A Cran Mirror When the GUI Doesn't Work###
 
 Say you want to install a new package in R, but you get this error:
         > library(vcd)
@@ -17,6 +17,7 @@ Also, the GUI for selecting a mirror on XQuartz 11 didn't work for me either.
     chooseCRANmirror(81)
 
 3. You'll get a list of mirrors. I wanted an HTTP mirror so I entered 21 in my console.
+
 
 4. Now enter which HTTP mirror you prefer. I entered 83 for USA-California. 
 
