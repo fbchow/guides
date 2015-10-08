@@ -1,4 +1,4 @@
-###How to Choose A Cran Mirror When the GUI Doesn't Work###
+###How to Choose a Cran Mirror when the GUI Doesn't Work###
 
 Say you want to install a new package in R, but you get this error:
         
